@@ -1,0 +1,10 @@
+com\quicktron\business\dao\IQueryBucketSlotDao.class
+com\quicktron\business\service\IQueryBkSlotSerivce.class
+com\quicktron\common\utils\InstaIdGenerator.class
+com\quicktron\business\service\impl\QueryBkSlotSerivceImpl.class
+com\quicktron\business\entities\User.class
+com\quicktron\business\controller\PcQyBuckSlotController.class
+com\quicktron\common\utils\IdWorker.class
+com\quicktron\business\entities\BucketTaskVO.class
+com\quicktron\business\entities\TableBaseVO.class
+com\quicktron\business\entities\ReportParamInVO.class
